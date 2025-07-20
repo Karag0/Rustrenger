@@ -18,7 +18,7 @@ Requirements
 
 **Installation:**
 # Clone repository
-git clone https://github.com/yourusername/p2p-messenger](https://github.com/Karag0/Rustrenger.git
+git clone https://github.com/Karag0/Rustrenger.git
 
 cd p2p-messenger
 
